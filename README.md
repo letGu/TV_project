@@ -39,4 +39,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/)
 
 
 
-0828 调试： npm install 前端文件夹会报错
+0828 调试： npm install 前端文件夹会报错    
+    所以使用了yarn 后端用了 yarn dev 运行 下次再打卡要不就分开 开两个app  
+        前端 npm run serve  后端 npm install  yarn dev
